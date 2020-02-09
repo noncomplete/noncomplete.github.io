@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am an aspiring Materials Scientist from Bangladesh. I am learning about machine learning and how it can be used for accelerating materials discovery and characterization. I will try to document my journey with this blog.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I love linux, vim, julia, mechanical keyboards and coffee.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[m.labib027@gmail.com](mailto:m.labib027@gmail.com)
